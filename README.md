@@ -1,1 +1,1 @@
-
+**Welcome to my AI Deep Learning Journey, a comprehensive showcase of my technical expertise and professional growth in deep learning, developed as part of ITA1 2376. This repository highlights advanced projects and assignments in computer vision, natural language processing (NLP), and generative AI, demonstrating proficiency in building high-performance models and solving complex AI challenges. Explore my work to see how I apply theoretical knowledge to practical, industry-relevant problems.**
